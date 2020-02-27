@@ -23,9 +23,10 @@ This idea came about from my personal experience as a music teacher: students wh
 2) JavaScript/TypeScript/Angular
 3) MySQL or mongoDB (still undecided)
 4) Google Calendar API
+5) Jhipster(still undecided)
 
 ### What I'll Have to Learn
-1) integration of Angular and Spring Boot
+1) integration of Angular and Spring Boot (maybe with Jhipster)
 2) Using Google Calendar API
 
 ### Project Tracker
